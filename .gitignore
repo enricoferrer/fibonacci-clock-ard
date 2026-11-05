@@ -1,0 +1,5 @@
+# Senha do Wi-Fi: nunca vai para o Git
+relogio_fibonacci/config_wifi.h
+
+# Arquivos de compilacao
+build/
